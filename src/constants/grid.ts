@@ -1,3 +1,5 @@
+import { breakpoints } from './breakpoints';
+
 export type GridBreakpoints = 'xs' | 's' | 'm' | 'l' | 'xl';
 export type GridWidths = 's' | 'm' | 'l' | 'xl';
 
@@ -11,10 +13,10 @@ interface Grid {
 const grid: Grid = {
   breakpoints: {
     xs: 0,
-    l: 992,
-    m: 768,
-    s: 576,
-    xl: 1300,
+    xl: breakpoints.largeDesktop,
+    l: breakpoints.desktop,
+    m: breakpoints.tablet,
+    s: breakpoints.phone,
   },
   cols: 12,
   gutter: 12,

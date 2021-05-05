@@ -338,7 +338,7 @@ exports[`<ProductTemplate /> renders with all props and content 1`] = `
   }
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
   .c17 {
     border-radius: 12px;
   }
@@ -378,7 +378,7 @@ exports[`<ProductTemplate /> renders with all props and content 1`] = `
   }
 }
 
-@media (min-width:1300px) {
+@media (min-width:1200px) {
   .c0 {
     max-width: 1224px;
   }
@@ -394,7 +394,7 @@ exports[`<ProductTemplate /> renders with all props and content 1`] = `
   }
 }
 
-@media (min-width:1300px) {
+@media (min-width:1200px) {
   .c25 {
     display: block;
     -webkit-flex: 0 0 83.33333333333334%;

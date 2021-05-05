@@ -28,7 +28,7 @@ exports[`<FlexContainer /> renders FlexContainer 1`] = `
   }
 }
 
-@media (min-width:1300px) {
+@media (min-width:1200px) {
   .c0 {
     max-width: 1224px;
   }

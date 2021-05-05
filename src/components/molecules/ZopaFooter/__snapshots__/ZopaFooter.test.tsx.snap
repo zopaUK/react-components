@@ -242,7 +242,7 @@ exports[`<ZopaFooter /> renders the component with no a11y violations 1`] = `
   }
 }
 
-@media (min-width:1300px) {
+@media (min-width:1200px) {
   .c1 {
     max-width: 1224px;
   }

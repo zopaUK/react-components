@@ -36,31 +36,17 @@ exports[`<Maintenance /> renders with all the props 1`] = `
 }
 
 .c4 {
-  font-size: 24px;
-  line-height: 32px;
-  -webkit-letter-spacing: -0.25px;
-  -moz-letter-spacing: -0.25px;
-  -ms-letter-spacing: -0.25px;
-  letter-spacing: -0.25px;
+  font-size: 28px;
+  line-height: 36px;
+  -webkit-letter-spacing: -0.45px;
+  -moz-letter-spacing: -0.45px;
+  -ms-letter-spacing: -0.45px;
+  letter-spacing: -0.45px;
   margin: 0;
   color: #2C3236;
   text-align: center;
   font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
   font-weight: 800;
-}
-
-.c5 {
-  margin: 0;
-  -webkit-letter-spacing: 0;
-  -moz-letter-spacing: 0;
-  -ms-letter-spacing: 0;
-  letter-spacing: 0;
-  color: #2C3236;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
-  font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
-  text-align: center;
 }
 
 .c6 {
@@ -72,6 +58,20 @@ exports[`<Maintenance /> renders with all the props 1`] = `
   color: #2C3236;
   font-size: 14px;
   line-height: 20px;
+  font-weight: 400;
+  font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
+  text-align: center;
+}
+
+.c5 {
+  margin: 0;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  color: #2C3236;
+  font-size: 18px;
+  line-height: 26px;
   font-weight: 400;
   font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
   text-align: center;

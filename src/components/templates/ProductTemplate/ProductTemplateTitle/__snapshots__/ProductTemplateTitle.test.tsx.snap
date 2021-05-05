@@ -32,7 +32,7 @@ exports[`<ProductTemplateTitle /> renders correct sized title on desktop 1`] = `
   max-width: 612px;
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
   .c0 {
     border-radius: 12px;
   }
@@ -95,7 +95,7 @@ exports[`<ProductTemplateTitle /> renders correct sized title on small screens 1
   max-width: 612px;
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
   .c0 {
     border-radius: 12px;
   }
@@ -172,7 +172,7 @@ exports[`<ProductTemplateTitle /> renders with all the props 1`] = `
   max-width: 612px;
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
   .c0 {
     border-radius: 12px;
   }

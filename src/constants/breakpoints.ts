@@ -1,7 +1,8 @@
 export const breakpoints = {
-  desktop: 1280,
-  phone: 600,
-  tablet: 720,
+  largeDesktop: 1200,
+  desktop: 992,
+  tablet: 768,
+  phone: 576,
 } as const;
 
 export type DeviceSizes = keyof typeof breakpoints;

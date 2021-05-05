@@ -60,13 +60,13 @@ exports[`<Navbar.Link /> should render component with default props 1`] = `
   opacity: 0.88;
 }
 
-@media (max-width:1279px) {
+@media (max-width:991px) {
   .c1 {
     width: 100%;
   }
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
 
 }
 
@@ -149,7 +149,7 @@ exports[`<Navbar.Link /> should render component with specific props 1`] = `
   display: none;
 }
 
-@media (max-width:1279px) {
+@media (max-width:991px) {
   .c1 {
     width: 100%;
     color: #2C3236;
@@ -159,7 +159,7 @@ exports[`<Navbar.Link /> should render component with specific props 1`] = `
   }
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
   .c1 {
     padding: 12px 8px;
     width: calc(100% - 16px);
@@ -173,7 +173,7 @@ exports[`<Navbar.Link /> should render component with specific props 1`] = `
   }
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
   .c3 {
     display: -webkit-inline-box;
     display: -webkit-inline-flex;

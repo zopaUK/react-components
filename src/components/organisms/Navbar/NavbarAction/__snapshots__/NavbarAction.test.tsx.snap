@@ -24,10 +24,11 @@ exports[`<Navbar /> should render component with default props 1`] = `
   font-weight: 600;
   cursor: pointer;
   border-radius: 8px;
-  color: #21247F;
+  color: #FFFFFF;
   border: 1px solid transparent;
   outline: 0;
-  background: transparent;
+  background-color: #3B46C4;
+  background: linear-gradient(90deg,#4F5AD8 0%,#3B46C4 100%);
 }
 
 .c0:focus:not(:active) {
@@ -36,7 +37,7 @@ exports[`<Navbar /> should render component with default props 1`] = `
 }
 
 .c0:hover {
-  background: #EAEBFA;
+  background: linear-gradient(90deg,#3B46C4 0%,#2732B0 100%);
 }
 
 .c0:active {
@@ -49,19 +50,19 @@ exports[`<Navbar /> should render component with default props 1`] = `
   display: block;
 }
 
-@media (max-width:1279px) {
+@media (max-width:991px) {
   .c1:hover:not(:disabled) {
     background: none;
   }
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
   .c1 {
     margin-left: 8px;
   }
 }
 
-@media (max-width:1279px) {
+@media (max-width:991px) {
   .c2 {
     position: absolute;
     height: 1px;
@@ -72,7 +73,7 @@ exports[`<Navbar /> should render component with default props 1`] = `
   }
 }
 
-@media (min-width:1280px) {
+@media (min-width:992px) {
   .c3 {
     display: none;
   }
