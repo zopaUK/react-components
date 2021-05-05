@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import styled from 'styled-components';
 import FlexRow, { FlexRowProps } from '../../layout/FlexRow/FlexRow';
 import FlexCol, { FlexColProps } from '../../layout/FlexCol/FlexCol';
-import RadioField from '../RadioField/RadioField';
+import RadioField from './RadioField/RadioField';
 import ErrorMessage from '../../atoms/ErrorMessage/ErrorMessage';
 import Fieldset from '../../atoms/Fieldset/Fieldset';
 import Legend from '../../atoms/Legend/Legend';

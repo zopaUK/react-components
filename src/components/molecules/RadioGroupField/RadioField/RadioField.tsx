@@ -1,10 +1,10 @@
 import React from 'react';
 import styled, { keyframes, css } from 'styled-components';
-import { colors, typography } from '../../../constants';
-import { getBorderColorByStatus } from '../../../helpers/utils';
-import InputLabel from '../../atoms/InputLabel/InputLabel';
-import SizedContainer from '../../layout/SizedContainer/SizedContainer';
-import { FieldProps, InputStatus, InputProps, GroupingControlsProps } from '../../types';
+import { colors, typography } from '../../../../constants';
+import { getBorderColorByStatus } from '../../../../helpers/utils';
+import InputLabel from '../../../atoms/InputLabel/InputLabel';
+import SizedContainer from '../../../layout/SizedContainer/SizedContainer';
+import { FieldProps, InputStatus, InputProps, GroupingControlsProps } from '../../../types';
 import deprecate from 'util-deprecate';
 
 const getCheckedColor = ({ disabled, isValid }: Pick<InputProps, 'disabled' | 'isValid'>) => {

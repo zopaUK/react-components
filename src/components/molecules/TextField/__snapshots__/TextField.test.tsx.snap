@@ -174,11 +174,14 @@ exports[`<TextField /> renders the component with error and label and size 1`] =
   font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
   font-weight: 600;
   font-size: 16px;
+}
+
+.c1 {
   margin-bottom: 0;
 }
 
 <label
-  class="c0"
+  class="c0 c1"
   for="text-id-test1"
 >
   yes!
@@ -200,7 +203,7 @@ exports[`<TextField /> renders the component with label 1`] = `
 }
 
 <label
-  class="c0"
+  class="c0 "
   for="text-id-test1"
 >
   Username

@@ -48,7 +48,7 @@ exports[`<Dropdown /> renders the Dropdown with one option 1`] = `
   class="c0"
 >
   <option
-    class=""
+    class="sc-bdfBwQ"
     value="first"
   >
     First value
@@ -104,13 +104,13 @@ exports[`<Dropdown /> renders the Dropdown with options 1`] = `
   class="c0"
 >
   <option
-    class=""
+    class="sc-bdfBwQ"
     value="first"
   >
     First value
   </option>
   <option
-    class=""
+    class="sc-bdfBwQ"
     value="second"
   >
     Second value
@@ -166,13 +166,13 @@ exports[`<Dropdown /> renders the Dropdown with options and a default selected v
   class="c0"
 >
   <option
-    class=""
+    class="sc-bdfBwQ"
     value="otherValue"
   >
     Other Value
   </option>
   <option
-    class=""
+    class="sc-bdfBwQ"
     selected=""
     value="defaultValue"
   >
@@ -229,19 +229,19 @@ exports[`<Dropdown /> renders the Dropdown with options passed through an array.
   class="c0"
 >
   <option
-    class=""
+    class="sc-bdfBwQ"
     value=""
   >
     Select a value
   </option>
   <option
-    class=""
+    class="sc-bdfBwQ"
     value="value1"
   >
     value1
   </option>
   <option
-    class=""
+    class="sc-bdfBwQ"
     value="value2"
   >
     value2

@@ -35,6 +35,19 @@ exports[`<RadioGroupField /> renders the component with no control icon and no a
   align-self: auto;
 }
 
+.c8 {
+  display: block;
+  margin: 0 0 10px;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  color: #2C3236;
+  font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
 .c5 {
   max-width: 100%;
   width: 100%;
@@ -49,17 +62,7 @@ exports[`<RadioGroupField /> renders the component with no control icon and no a
   margin-bottom: 0;
 }
 
-.c8 {
-  display: block;
-  margin: 0 0 10px;
-  -webkit-letter-spacing: 0;
-  -moz-letter-spacing: 0;
-  -ms-letter-spacing: 0;
-  letter-spacing: 0;
-  color: #2C3236;
-  font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
-  font-weight: 600;
-  font-size: 16px;
+.c9 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -80,7 +83,7 @@ exports[`<RadioGroupField /> renders the component with no control icon and no a
   text-align: left;
 }
 
-.c8:before {
+.c9:before {
   content: '';
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
@@ -99,7 +102,7 @@ exports[`<RadioGroupField /> renders the component with no control icon and no a
   transition: 0.2s ease-in-out;
 }
 
-.c8:after {
+.c9:after {
   content: '';
   position: absolute;
   border-radius: 50%;
@@ -112,7 +115,7 @@ exports[`<RadioGroupField /> renders the component with no control icon and no a
   top: 19px;
 }
 
-.c8:hover {
+.c9:hover {
   cursor: pointer;
 }
 
@@ -170,8 +173,8 @@ exports[`<RadioGroupField /> renders the component with no control icon and no a
   background-color: #00D9C5;
   height: 10px;
   width: 10px;
-  -webkit-animation: ciAMHu 200ms ease-in-out;
-  animation: ciAMHu 200ms ease-in-out;
+  -webkit-animation: hjYkn 200ms ease-in-out;
+  animation: hjYkn 200ms ease-in-out;
 }
 
 .c7 + label:before,
@@ -232,7 +235,7 @@ exports[`<RadioGroupField /> renders the component with no control icon and no a
             value="one"
           />
           <label
-            class="c8"
+            class="c8 c9"
             for="radio-id-label-one"
           >
             label one
@@ -257,7 +260,7 @@ exports[`<RadioGroupField /> renders the component with no control icon and no a
             value="two"
           />
           <label
-            class="c8"
+            class="c8 c9"
             for="radio-id-label-two"
           >
             label two
@@ -304,6 +307,19 @@ exports[`<RadioGroupField /> renders the component with props with no a11y viola
   align-self: auto;
 }
 
+.c8 {
+  display: block;
+  margin: 0 0 10px;
+  -webkit-letter-spacing: 0;
+  -moz-letter-spacing: 0;
+  -ms-letter-spacing: 0;
+  letter-spacing: 0;
+  color: #2C3236;
+  font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
 .c5 {
   max-width: 100%;
   width: 100%;
@@ -318,17 +334,7 @@ exports[`<RadioGroupField /> renders the component with props with no a11y viola
   margin-bottom: 0;
 }
 
-.c8 {
-  display: block;
-  margin: 0 0 10px;
-  -webkit-letter-spacing: 0;
-  -moz-letter-spacing: 0;
-  -ms-letter-spacing: 0;
-  letter-spacing: 0;
-  color: #2C3236;
-  font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
-  font-weight: 600;
-  font-size: 16px;
+.c9 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -349,7 +355,7 @@ exports[`<RadioGroupField /> renders the component with props with no a11y viola
   text-align: left;
 }
 
-.c8:before {
+.c9:before {
   content: '';
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
@@ -368,7 +374,7 @@ exports[`<RadioGroupField /> renders the component with props with no a11y viola
   transition: 0.2s ease-in-out;
 }
 
-.c8:after {
+.c9:after {
   content: '';
   position: absolute;
   border-radius: 50%;
@@ -381,7 +387,7 @@ exports[`<RadioGroupField /> renders the component with props with no a11y viola
   top: 19px;
 }
 
-.c8:hover {
+.c9:hover {
   cursor: pointer;
 }
 
@@ -439,8 +445,8 @@ exports[`<RadioGroupField /> renders the component with props with no a11y viola
   background-color: #00D9C5;
   height: 10px;
   width: 10px;
-  -webkit-animation: ciAMHu 200ms ease-in-out;
-  animation: ciAMHu 200ms ease-in-out;
+  -webkit-animation: hjYkn 200ms ease-in-out;
+  animation: hjYkn 200ms ease-in-out;
 }
 
 .c0 {
@@ -497,7 +503,7 @@ exports[`<RadioGroupField /> renders the component with props with no a11y viola
             value="one"
           />
           <label
-            class="c8"
+            class="c8 c9"
             for="radio-id-label-one"
           >
             label one
@@ -523,7 +529,7 @@ exports[`<RadioGroupField /> renders the component with props with no a11y viola
             value="two"
           />
           <label
-            class="c8"
+            class="c8 c9"
             for="radio-id-label-two"
           >
             label two

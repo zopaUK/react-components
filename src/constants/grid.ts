@@ -10,11 +10,11 @@ interface Grid {
 
 const grid: Grid = {
   breakpoints: {
+    xs: 0,
     l: 992,
     m: 768,
     s: 576,
     xl: 1300,
-    xs: 0,
   },
   cols: 12,
   gutter: 12,

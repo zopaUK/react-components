@@ -15,6 +15,21 @@ exports[`<NumberText /> renders without errors 1`] = `
   text-align: inherit;
 }
 
+.c3 {
+  font-size: 46px;
+  line-height: 54px;
+  -webkit-letter-spacing: -1.25px;
+  -moz-letter-spacing: -1.25px;
+  -ms-letter-spacing: -1.25px;
+  letter-spacing: -1.25px;
+  margin: 0;
+  color: #2C3236;
+  display: block;
+  text-align: inherit;
+  font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
+  font-weight: 700;
+}
+
 .c0 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -39,19 +54,7 @@ exports[`<NumberText /> renders without errors 1`] = `
   order: 2;
 }
 
-.c3 {
-  font-size: 46px;
-  line-height: 54px;
-  -webkit-letter-spacing: -1.25px;
-  -moz-letter-spacing: -1.25px;
-  -ms-letter-spacing: -1.25px;
-  letter-spacing: -1.25px;
-  margin: 0;
-  color: #2C3236;
-  display: block;
-  text-align: inherit;
-  font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
-  font-weight: 700;
+.c4 {
   -webkit-order: 1;
   -ms-flex-order: 1;
   order: 1;
@@ -67,7 +70,7 @@ exports[`<NumberText /> renders without errors 1`] = `
       Overall Balance
     </span>
     <span
-      class="c3 mb-2"
+      class="c3 c4 mb-2"
     >
       £100,000.00
     </span>

@@ -15,7 +15,7 @@ exports[`<DropdownField /> renders the component with props with no a11y violati
 }
 
 <label
-  class="c0"
+  class="c0 "
   for="text-id-dropdown-field-default"
 >
   Your cool dropdown ❤

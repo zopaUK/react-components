@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import axe from '../../../../axe-helper';
+import axe from '../../../../../axe-helper';
 import InputCheckbox from './RadioField';
 
 describe('<RadioField />', () => {

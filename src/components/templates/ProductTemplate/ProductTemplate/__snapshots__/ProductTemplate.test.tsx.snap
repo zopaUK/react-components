@@ -18,21 +18,21 @@ exports[`<ProductTemplate /> renders with all props and content 1`] = `
   flex-direction: column;
 }
 
-.c26 > .c27 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+.c26 > .sc-bdfBwQ {
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
-.c26 .c28 {
+.c26 .sc-dlfnbm {
   font-size: 16px;
 }
 
-.c26 .c29 {
+.c26 .sc-hKgILt {
   font-size: 14px;
 }
 
-.c26 > .c30 {
+.c26 > .sc-eCssSg {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
@@ -326,13 +326,13 @@ exports[`<ProductTemplate /> renders with all props and content 1`] = `
 }
 
 @media (max-width:768px) {
-  .c26 {
+  .c27 {
     border-radius: 0;
     box-shadow: none;
     border: none;
   }
 
-  .c26:last-of-type {
+  .c27:last-of-type {
     box-shadow: 0 0 1px 0 #D4D7D9;
     border-bottom: 1px solid #EFEFEF;
   }
@@ -531,7 +531,7 @@ exports[`<ProductTemplate /> renders with all props and content 1`] = `
             cols="12"
           >
             <div
-              class="c26 px-4 py-6 m:p-8"
+              class="c26 c27 px-4 py-6 m:p-8"
             >
               This is the body of the card
             </div>

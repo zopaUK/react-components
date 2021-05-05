@@ -1,11 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<CheckboxField /> renders the component with no control icon and no a11y violations 1`] = `
-.c0 {
-  max-width: 100%;
-  width: 100%;
-}
-
 .c2 {
   display: block;
   margin: 0 0 10px;
@@ -17,6 +12,14 @@ exports[`<CheckboxField /> renders the component with no control icon and no a11
   font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
   font-weight: 600;
   font-size: 16px;
+}
+
+.c0 {
+  max-width: 100%;
+  width: 100%;
+}
+
+.c3 {
   width: auto;
   display: -webkit-box;
   display: -webkit-flex;
@@ -42,7 +45,7 @@ exports[`<CheckboxField /> renders the component with no control icon and no a11
   margin-bottom: 0;
 }
 
-.c2:before {
+.c3:before {
   content: '';
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
@@ -61,7 +64,7 @@ exports[`<CheckboxField /> renders the component with no control icon and no a11
   display: block;
 }
 
-.c2:after {
+.c3:after {
   content: '';
   background-size: contain;
   background: transparent none no-repeat center;
@@ -72,7 +75,7 @@ exports[`<CheckboxField /> renders the component with no control icon and no a11
   top: 18px;
 }
 
-.c2:hover {
+.c3:hover {
   cursor: pointer;
 }
 
@@ -128,8 +131,8 @@ exports[`<CheckboxField /> renders the component with no control icon and no a11
 .c1:checked + label:after {
   background-size: contain;
   background-image: url(teal-check-mark.svg);
-  -webkit-animation: guYtTV 180ms ease-in-out;
-  animation: guYtTV 180ms ease-in-out;
+  -webkit-animation: icNfUr 180ms ease-in-out;
+  animation: icNfUr 180ms ease-in-out;
 }
 
 .c1 + label:before,
@@ -147,7 +150,7 @@ exports[`<CheckboxField /> renders the component with no control icon and no a11
     type="checkbox"
   />
   <label
-    class="c2"
+    class="c2 c3"
     for="checkbox-id-test1"
   >
     hello
@@ -156,11 +159,6 @@ exports[`<CheckboxField /> renders the component with no control icon and no a11
 `;
 
 exports[`<CheckboxField /> renders the component with props with no a11y violations 1`] = `
-.c0 {
-  max-width: 100%;
-  width: 100%;
-}
-
 .c2 {
   display: block;
   margin: 0 0 10px;
@@ -172,6 +170,14 @@ exports[`<CheckboxField /> renders the component with props with no a11y violati
   font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif;
   font-weight: 600;
   font-size: 16px;
+}
+
+.c0 {
+  max-width: 100%;
+  width: 100%;
+}
+
+.c3 {
   width: auto;
   display: -webkit-box;
   display: -webkit-flex;
@@ -197,7 +203,7 @@ exports[`<CheckboxField /> renders the component with props with no a11y violati
   margin-bottom: 0;
 }
 
-.c2:before {
+.c3:before {
   content: '';
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
@@ -216,7 +222,7 @@ exports[`<CheckboxField /> renders the component with props with no a11y violati
   display: block;
 }
 
-.c2:after {
+.c3:after {
   content: '';
   background-size: contain;
   background: transparent none no-repeat center;
@@ -227,7 +233,7 @@ exports[`<CheckboxField /> renders the component with props with no a11y violati
   top: 18px;
 }
 
-.c2:hover {
+.c3:hover {
   cursor: pointer;
 }
 
@@ -283,8 +289,8 @@ exports[`<CheckboxField /> renders the component with props with no a11y violati
 .c1:checked + label:after {
   background-size: contain;
   background-image: url(teal-check-mark.svg);
-  -webkit-animation: guYtTV 180ms ease-in-out;
-  animation: guYtTV 180ms ease-in-out;
+  -webkit-animation: icNfUr 180ms ease-in-out;
+  animation: icNfUr 180ms ease-in-out;
 }
 
 <div
@@ -297,7 +303,7 @@ exports[`<CheckboxField /> renders the component with props with no a11y violati
     type="checkbox"
   />
   <label
-    class="c2"
+    class="c2 c3"
     for="checkbox-id-test1"
   >
     hello

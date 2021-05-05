@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Tooltip /> allows to set global styles 1`] = `"/* sc-component-id: sc-global-2866731758 */"`;
+exports[`<Tooltip /> allows to set global styles 1`] = `""`;
 
 exports[`<Tooltip /> renders the component with no a11y violations 1`] = `
 <span>

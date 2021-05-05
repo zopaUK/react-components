@@ -69,7 +69,7 @@ exports[`<Carousel.Slide /> renders with no a11y violations 1`] = `
     <div>
       <svg
         aria-hidden="true"
-        class="svg-inline--fa fa-car fa-w-16 fa-lg m-4"
+        class="svg-inline--fa fa-car fa-w-16 fa-lg sc-iBPRYJ m-4"
         color="#00D9C5"
         data-icon="car"
         data-prefix="fas"

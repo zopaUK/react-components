@@ -2,7 +2,7 @@
 
 exports[`<Card.LineItem /> renders the component with no a11y violations 1`] = `
 <div
-  class="p-4"
+  class="sc-jSgupP p-4"
 >
   £10.00
 </div>

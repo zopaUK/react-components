@@ -42,20 +42,20 @@ exports[`<Card.Image /> renders the component with no a11y violations 1`] = `
 }
 
 .c0 > .c1 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
-.c0 .c4 {
+.c0 .sc-hKgILt {
   font-size: 16px;
 }
 
-.c0 .c5 {
+.c0 .sc-eCssSg {
   font-size: 14px;
 }
 
-.c0 > .c6 {
+.c0 > .sc-jSgupP {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;

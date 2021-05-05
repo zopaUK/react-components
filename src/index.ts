@@ -20,7 +20,6 @@ export { default as Badge } from './components/atoms/Badge/Badge';
 export { default as Icon } from './components/atoms/Icon/Icon';
 export { default as Button, buttonStyle } from './components/atoms/Button/Button';
 export { default as Progress } from './components/molecules/Progress/Progress';
-export { default as SidekickCard } from './components/atoms/SidekickCard/SidekickCard';
 export { default as Link, linkStyle } from './components/atoms/Link/Link';
 export { default as Dropdown } from './components/atoms/Dropdown/Dropdown';
 export { Option as DropdownOption } from './components/atoms/Dropdown/Dropdown';
@@ -45,7 +44,6 @@ export { default as Help, HelpLine, HelpLineDetails } from './components/molecul
 export { default as Tooltip } from './components/molecules/Tooltip/Tooltip';
 export { default as CheckboxField } from './components/molecules/CheckboxField/CheckboxField';
 export { default as CheckboxGroupField } from './components/molecules/CheckboxGroupField/CheckboxGroupField';
-export { default as RadioField } from './components/molecules/RadioField/RadioField';
 export { default as RadioGroupField } from './components/molecules/RadioGroupField/RadioGroupField';
 export { default as TextField } from './components/molecules/TextField/TextField';
 export { default as DropdownField } from './components/molecules/DropdownField/DropdownField';

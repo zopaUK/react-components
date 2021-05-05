@@ -170,6 +170,34 @@ exports[`<Progress /> Props renders empty progress bar 1`] = `
   color: #2C3236;
 }
 
+.c2 {
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  display: block;
+  width: 12px;
+  height: 12px;
+  background: #EFEFEF;
+  border-radius: 100%;
+  -webkit-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+
+.c3 {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  display: block;
+  width: 12px;
+  height: 12px;
+  background: #EFEFEF;
+  border-radius: 100%;
+  -webkit-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+
 .c4 {
   position: absolute;
   top: 50%;
@@ -202,34 +230,6 @@ exports[`<Progress /> Props renders empty progress bar 1`] = `
   position: absolute;
   top: 50%;
   left: 100%;
-  display: block;
-  width: 12px;
-  height: 12px;
-  background: #EFEFEF;
-  border-radius: 100%;
-  -webkit-transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-}
-
-.c2 {
-  position: absolute;
-  top: 50%;
-  left: 0%;
-  display: block;
-  width: 12px;
-  height: 12px;
-  background: #EFEFEF;
-  border-radius: 100%;
-  -webkit-transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-}
-
-.c3 {
-  position: absolute;
-  top: 50%;
-  left: 25%;
   display: block;
   width: 12px;
   height: 12px;

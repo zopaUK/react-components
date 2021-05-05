@@ -1,5 +1,6 @@
-import styled from 'styled-components';
-import { colors, typography } from '../../../../constants';
+import styled, { css } from 'styled-components';
+import { typography } from '../../../../constants/typography';
+import { colors } from '../../../../constants/colors';
 import { CardImageContainer } from '../CardImage/CardImage';
 import CardHeading from '../CardHeading/CardHeading';
 import CardText from '../CardText/CardText';
@@ -77,13 +78,23 @@ const Card = styled.div<CardProps>`
   box-shadow: ${({ styling = 'secondary' }) => boxShadowStyle[styling]};
   flex-direction: ${({ layout = 'vertical' }) => layoutDirections[layout]};
   & > ${CardImageContainer} {
-    flex: 0 1 ${({ layout = 'vertical' }) => layoutImageStyles[layout]};
+    flex: 0 1
+      ${({ layout = 'vertical' }) =>
+        css`
+          ${layoutImageStyles[layout]}
+        `};
   }
   & ${CardHeading} {
-    font-size: ${({ styling = 'secondary' }) => headingSizes[styling]};
+    font-size: ${({ styling = 'secondary' }) =>
+      css`
+        ${headingSizes[styling]}
+      `};
   }
   & ${CardText} {
-    font-size: ${({ styling = 'secondary' }) => textSizes[styling]};
+    font-size: ${({ styling = 'secondary' }) =>
+      css`
+        ${textSizes[styling]}
+      `};
   }
   & > ${CardLineItem} {
     align-self: center;

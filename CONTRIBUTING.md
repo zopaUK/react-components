@@ -114,28 +114,21 @@ Please use **a prerelease only for**:
 
 ### Process
 
-To release a new major prerelease:
+To release a new major prerelease the process is also automatic, but it needs the following conditions:
+
+1. Make sure a `beta` branch isn't created
+2. Create a `beta` branch and push it:
 
 ```bash
-git checkout -b milestone/2.0.0 # Create a new branch for the next major version assuming you are in v2.x
-yarn compile
-yarn version --premajor # This will create 2.0.0-0
-git push origin milestone/4.0.0
-yarn publish --tag next # Publish to https://www.npmjs.com/package/@zopauk/react-components
+git checkout -b beta
+git push origin beta
 ```
 
-To release another iteration of the prerelease:
+3. Create a PR based on `beta`.
+   _Make sure to add a breaking change by adding the proper [commit message format](#commit-messages)_
 
-```bash
-yarn compile
-yarn version --prerelease # This will create 2.0.0-1 assuming you are in 2.0.0-0
-```
-
-Get the new prerelease version on your app:
-
-```bash
-yarn add @zopauk/react-components@next
-```
+4. Once merged to the `beta` branch a prerelease will be created by
+   [semantic release](https://github.com/semantic-release/semantic-release/blob/master/docs/recipes/pre-releases.md).
 
 Docs: [Semantic versioning](https://semver.org/) | [`yarn version`](https://classic.yarnpkg.com/en/docs/cli/version) |
 [`yarn publish`](https://classic.yarnpkg.com/en/docs/cli/publish) | [`yarn publish --tag`](https://classic.yarnpkg.com/en/docs/cli/publish#toc-yarn-publish-tag)

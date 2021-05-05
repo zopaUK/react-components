@@ -18,21 +18,21 @@ exports[`<Card /> renders with brand styling 1`] = `
   flex-direction: column;
 }
 
-.c0 > .c1 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+.c0 > .sc-gsTCUz {
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
-.c0 .c2 {
+.c0 .sc-hKgILt {
   font-size: 16px;
 }
 
-.c0 .c3 {
+.c0 .sc-eCssSg {
   font-size: 14px;
 }
 
-.c0 > .c4 {
+.c0 > .sc-jSgupP {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
@@ -61,21 +61,21 @@ exports[`<Card /> renders with horizontal layout 1`] = `
   flex-direction: row;
 }
 
-.c0 > .c1 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+.c0 > .sc-gsTCUz {
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
-.c0 .c2 {
+.c0 .sc-hKgILt {
   font-size: 16px;
 }
 
-.c0 .c3 {
+.c0 .sc-eCssSg {
   font-size: 14px;
 }
 
-.c0 > .c4 {
+.c0 > .sc-jSgupP {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
@@ -104,21 +104,21 @@ exports[`<Card /> renders with primary styling 1`] = `
   flex-direction: column;
 }
 
-.c0 > .c1 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+.c0 > .sc-gsTCUz {
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
-.c0 .c2 {
+.c0 .sc-hKgILt {
   font-size: 18px;
 }
 
-.c0 .c3 {
+.c0 .sc-eCssSg {
   font-size: 16px;
 }
 
-.c0 > .c4 {
+.c0 > .sc-jSgupP {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
@@ -147,21 +147,21 @@ exports[`<Card /> renders with secondary styling 1`] = `
   flex-direction: column;
 }
 
-.c0 > .c1 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+.c0 > .sc-gsTCUz {
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
-.c0 .c2 {
+.c0 .sc-hKgILt {
   font-size: 16px;
 }
 
-.c0 .c3 {
+.c0 .sc-eCssSg {
   font-size: 14px;
 }
 
-.c0 > .c4 {
+.c0 > .sc-jSgupP {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
@@ -190,21 +190,21 @@ exports[`<Card /> renders with vertical layout 1`] = `
   flex-direction: column;
 }
 
-.c0 > .c1 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+.c0 > .sc-gsTCUz {
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
-.c0 .c2 {
+.c0 .sc-hKgILt {
   font-size: 16px;
 }
 
-.c0 .c3 {
+.c0 .sc-eCssSg {
   font-size: 14px;
 }
 
-.c0 > .c4 {
+.c0 > .sc-jSgupP {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;

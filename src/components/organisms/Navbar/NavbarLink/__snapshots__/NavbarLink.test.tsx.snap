@@ -66,6 +66,10 @@ exports[`<Navbar.Link /> should render component with default props 1`] = `
   }
 }
 
+@media (min-width:1280px) {
+
+}
+
 <a
   class="c0 c1"
   color="#3B46C4"

@@ -123,6 +123,10 @@ exports[`<NavbarDropdown /> should render component 1`] = `
 }
 
 @media (min-width:1280px) {
+
+}
+
+@media (min-width:1280px) {
   .c4 {
     display: -webkit-inline-box;
     display: -webkit-inline-flex;

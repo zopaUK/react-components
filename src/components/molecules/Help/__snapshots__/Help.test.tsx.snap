@@ -153,10 +153,10 @@ exports[`<Help /> renders the default Help component with no a11y violations 1`]
   flex-direction: column;
 }
 
-.c8 > .c18 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+.c8 > .sc-jSgupP {
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
 .c8 .c12 {
@@ -167,7 +167,7 @@ exports[`<Help /> renders the default Help component with no a11y violations 1`]
   font-size: 16px;
 }
 
-.c8 > .c19 {
+.c8 > .sc-pFZIQ {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;

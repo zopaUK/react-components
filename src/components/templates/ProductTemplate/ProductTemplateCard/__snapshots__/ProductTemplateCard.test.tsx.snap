@@ -18,34 +18,34 @@ exports[`<ProductTemplateCard /> renders with all the props 1`] = `
   flex-direction: column;
 }
 
-.c0 > .c1 {
-  -webkit-flex: 0 1 200px;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+.c0 > .sc-bdfBwQ {
+  -webkit-flex: 0 1  200px;
+  -ms-flex: 0 1  200px;
+  flex: 0 1  200px;
 }
 
-.c0 .c2 {
+.c0 .sc-dlfnbm {
   font-size: 16px;
 }
 
-.c0 .c3 {
+.c0 .sc-hKgILt {
   font-size: 14px;
 }
 
-.c0 > .c4 {
+.c0 > .sc-eCssSg {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   align-self: center;
 }
 
 @media (max-width:768px) {
-  .c0 {
+  .c1 {
     border-radius: 0;
     box-shadow: none;
     border: none;
   }
 
-  .c0:last-of-type {
+  .c1:last-of-type {
     box-shadow: 0 0 1px 0 #D4D7D9;
     border-bottom: 1px solid #EFEFEF;
   }
@@ -53,7 +53,7 @@ exports[`<ProductTemplateCard /> renders with all the props 1`] = `
 
 <div>
   <div
-    class="c0 px-4 py-6 m:p-8"
+    class="c0 c1 px-4 py-6 m:p-8"
   >
     All the children
   </div>
