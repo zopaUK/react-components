@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Align renders the component with no props and no a11y violations 1`] = `
+<div
+  class=""
+>
+  Align Content
+</div>
+`;
+
+exports[`Align renders with specific severity: $severity 1`] = `
+@media (min-width:0px) {
+  .c0 {
+    text-align: left;
+  }
+}
+
+<div
+  class="c0"
+>
+  Align Content
+</div>
+`;
+
+exports[`Align renders with specific severity: $severity 2`] = `
+@media (min-width:0px) {
+  .c0 {
+    text-align: center;
+  }
+}
+
+<div
+  class="c0"
+>
+  Align Content
+</div>
+`;
+
+exports[`Align renders with specific severity: $severity 3`] = `
+@media (min-width:0px) {
+  .c0 {
+    text-align: right;
+  }
+}
+
+<div
+  class="c0"
+>
+  Align Content
+</div>
+`;

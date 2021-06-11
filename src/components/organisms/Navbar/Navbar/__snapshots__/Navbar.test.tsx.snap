@@ -849,7 +849,7 @@ exports[`<Navbar /> should render component with all the props and no a11y viola
           >
             <button
               aria-label="Navigation"
-              class="c21 c22 sc-exAgwC sc-cQFLBn c22"
+              class="c21 c22 sc-cQFLBn sc-gojNiO c22"
               data-automation="hamburger-icon"
             >
               <svg
@@ -1739,7 +1739,7 @@ exports[`<Navbar /> should render large device navigation with default props and
           >
             <button
               aria-label="Navigation"
-              class="c16 c21 sc-exAgwC sc-cQFLBn c21"
+              class="c16 c21 sc-cQFLBn sc-gojNiO c21"
               data-automation="hamburger-icon"
             >
               <svg
@@ -2670,7 +2670,7 @@ exports[`<Navbar /> should render small device navigation with default props wit
           >
             <button
               aria-label="Navigation"
-              class="c21 c22 sc-exAgwC sc-cQFLBn c22"
+              class="c21 c22 sc-cQFLBn sc-gojNiO c22"
               data-automation="hamburger-icon"
             >
               <svg
@@ -3613,7 +3613,7 @@ exports[`<Navbar /> should render the collapsed styled on large device navigatio
           >
             <button
               aria-label="Navigation"
-              class="c16 c21 sc-exAgwC sc-cQFLBn c21"
+              class="c16 c21 sc-cQFLBn sc-gojNiO c21"
               data-automation="hamburger-icon"
             >
               <svg

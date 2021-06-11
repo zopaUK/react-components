@@ -145,7 +145,7 @@ exports[`<TabButtons /> renders the buttons on big screens 1`] = `
         <button
           aria-controls="pineapple-content"
           aria-expanded="true"
-          class="c2 c3 py-2 sc-daURTG c3 py-2"
+          class="c2 c3 py-2 sc-bXGyLb c3 py-2"
           id="pineapple"
         >
           🍍 Pineapple
@@ -157,7 +157,7 @@ exports[`<TabButtons /> renders the buttons on big screens 1`] = `
         <button
           aria-controls="kiwi-content"
           aria-expanded="false"
-          class="c2 c4 py-2 sc-daURTG c4 py-2"
+          class="c2 c4 py-2 sc-bXGyLb c4 py-2"
           id="kiwi"
         >
           🥝 Kiwi
@@ -169,7 +169,7 @@ exports[`<TabButtons /> renders the buttons on big screens 1`] = `
         <button
           aria-controls="watermelon-content"
           aria-expanded="false"
-          class="c2 c4 py-2 sc-daURTG c4 py-2"
+          class="c2 c4 py-2 sc-bXGyLb c4 py-2"
           id="watermelon"
         >
           🍉 Watermelon
