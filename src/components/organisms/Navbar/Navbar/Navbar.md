@@ -1,6 +1,6 @@
 ### Summary
 
-Navbar will render an array of links provided using a dropdown which works on click and a link which is a wrap around our [`<Link />`](/#/Components/Atoms/Link) atom, decorated with tow extra props: `active` and `withChevron`. You can opt out displaying the CTA using `withCTA` prop.
+Navbar will render an array of links provided using a dropdown which works on click and a link which is a wrap around our [`<Link />`](/#/Components/Atoms/Link) atom, decorated with two extra props: `active` and `withChevron`. You can opt out displaying the CTA using `withCTA` prop.
 
 ⚠️ The menu animates when scrolling. For a better preview view [Default example](#/Components/Organisms/Navbar/Navbar/1)
 
